@@ -1,5 +1,10 @@
-login.loudtalks.com=34.111.81.91
-login.zello.com=34.111.81.91
-loudtalks.net=34.54.168.229
-api.loudtalks.net=34.54.168.229
-zello.com=104.16.165.109
+login.loudtalks.com
+loudtalks.net
+api.loudtalks.net
+zello.com
+cloudflare.com
+one.one.one.one
+dns.google.com
+dns.quad9.net
+dns10.quad9.net
+opendns.com
