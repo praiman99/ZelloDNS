@@ -1,10 +1,5 @@
+zello.me
 login.loudtalks.com
 loudtalks.net
-api.loudtalks.net
-zello.com
-cloudflare.com
-one.one.one.one
-dns.google.com
 dns.quad9.net
-dns10.quad9.net
-opendns.com
+one.one.one.one
