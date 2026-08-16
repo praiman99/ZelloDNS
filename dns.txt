@@ -1,4 +1,5 @@
-1.1.1.1
-1.0.0.1
-9.9.9.9
-9.0.0.9
+login.loudtalks.com=34.111.81.91
+login.zello.com=34.111.81.91
+loudtalks.net=34.54.168.229
+api.loudtalks.net=34.54.168.229
+zello.com=104.16.165.109
