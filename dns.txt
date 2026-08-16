@@ -1,5 +1,5 @@
-lb-fast.zello.com
+one.one.one.one
+zello.com
 api.loudtalks.net
-lb.zello.com
 backup-api.loudtalks.net
 login.loudtalks.com
