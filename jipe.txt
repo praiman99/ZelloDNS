@@ -1,1 +1,5 @@
+zello.me
+loudtalks.net
+one.one.one.one
+dns.google.com
 dns.quad9.net
