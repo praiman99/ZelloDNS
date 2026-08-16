@@ -1,5 +1,4 @@
-zello.me
-login.loudtalks.com
-loudtalks.net
-dns.quad9.net
-one.one.one.one
+lb-fast.zello.com
+api.loudtalks.net
+lb.zello.com
+backup-api.loudtalks.net
