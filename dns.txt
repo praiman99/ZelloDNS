@@ -1,5 +1,4 @@
-one.one.one.one
-dns.google.com
-login.loudtalks.com
 zello.me
 zello.com
+login.loudtalks.com
+loudtalks.net
