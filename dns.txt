@@ -1,5 +1,3 @@
 one.one.one.one
-zello.com
-api.loudtalks.net
-backup-api.loudtalks.net
+dns.google.com
 login.loudtalks.com
